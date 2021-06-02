@@ -21,7 +21,7 @@ header {
 }
 .navbar-default {
   background: transparent;
-  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  /* border-top: 1px solid rgba(255, 255, 255, 0.3); */
   transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -webkit-transition: all 0.2s ease-in-out;
@@ -89,6 +89,27 @@ header {
 /*-------------------------------------------------*/
 /* =  Home section - slider
 /*-------------------------------------------------*/
+
+img {
+  vertical-align: top;
+  max-width: 100%;
+}
+
+.avatar
+{
+  max-width: 100%;
+  height: auto;
+}
+
+.profile-circle{
+  background: #ffffff;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: inline-block;
+}
+
 #container {
   padding-top: 125px;
 }
