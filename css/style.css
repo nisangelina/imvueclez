@@ -1063,7 +1063,7 @@ form#review-form input[type="submit"]:hover {
 /* =  footer
 /*-------------------------------------------------*/
 .instagram-feed-section {
-  background: #222222;
+  background: #ffffff00;
   text-align: center;
   padding-top: 25px;
 }
@@ -1076,7 +1076,7 @@ form#review-form input[type="submit"]:hover {
   margin: 0 0 12px;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
-  color: #ffffff;
+  color: #222222;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 18px;
